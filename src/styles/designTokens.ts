@@ -88,4 +88,9 @@ export const designTokens = {
       bold: 700,
     },
   },
+  focusRing: {
+    color: "#111827",
+    width: 2,
+    offset: 2,
+  },
 };

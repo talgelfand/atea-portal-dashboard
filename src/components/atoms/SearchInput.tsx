@@ -21,6 +21,11 @@ const SearchField = styled.div`
     ${designTokens.spacing["space-3"]}px;
   margin: ${designTokens.spacing["space-3"]}px 0;
   box-sizing: border-box;
+
+  &:focus-within {
+    border-color: ${designTokens.color.blue[500]};
+    border-width: ${designTokens.focusRing.width}px;
+  }
 `;
 
 const StyledSearchIcon = styled(SearchIcon)`
