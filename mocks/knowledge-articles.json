@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with Network Setup",
+    "category": "Networking",
+    "views": 1820,
+    "lastUpdated": "2026-08-18T08:15:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Troubleshooting VPN Connections",
+    "category": "Security",
+    "views": 1460,
+    "lastUpdated": "2026-08-20T11:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Best Practices for Wi-Fi Optimization",
+    "category": "Wireless",
+    "views": 2190,
+    "lastUpdated": "2026-08-24T09:30:00Z"
+  },
+  {
+    "id": 4,
+    "title": "How to Recover a Lost Password",
+    "category": "Access",
+    "views": 980,
+    "lastUpdated": "2026-08-19T14:25:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Device Backup and Restore Guide",
+    "category": "Support",
+    "views": 2015,
+    "lastUpdated": "2026-08-22T13:45:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Configuring a Secure Firewall",
+    "category": "Security",
+    "views": 1288,
+    "lastUpdated": "2026-08-21T10:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Inventory Management Basics",
+    "category": "Operations",
+    "views": 770,
+    "lastUpdated": "2026-08-14T16:10:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Maintaining UPS Systems",
+    "category": "Power",
+    "views": 905,
+    "lastUpdated": "2026-08-23T08:20:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Employee Device Enrollment",
+    "category": "IT",
+    "views": 1654,
+    "lastUpdated": "2026-08-26T07:40:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Using the Portal Dashboard",
+    "category": "Portal",
+    "views": 2410,
+    "lastUpdated": "2026-08-29T12:15:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Smart Home Sensor Setup",
+    "category": "IoT",
+    "views": 734,
+    "lastUpdated": "2026-08-17T15:55:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Managing Print Queues",
+    "category": "Office",
+    "views": 1105,
+    "lastUpdated": "2026-08-27T09:05:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Laptop Battery Care Tips",
+    "category": "Hardware",
+    "views": 1379,
+    "lastUpdated": "2026-08-25T06:25:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Audio Device Troubleshooting",
+    "category": "Audio",
+    "views": 888,
+    "lastUpdated": "2026-08-16T12:50:00Z"
+  },
+  {
+    "id": 15,
+    "title": "SSD Performance Checks",
+    "category": "Storage",
+    "views": 1140,
+    "lastUpdated": "2026-08-28T10:35:00Z"
+  },
+  {
+    "id": 16,
+    "title": "Scanner Setup and Calibration",
+    "category": "Office",
+    "views": 660,
+    "lastUpdated": "2026-08-15T08:45:00Z"
+  },
+  {
+    "id": 17,
+    "title": "Large-Scale Deployment Checklist",
+    "category": "Operations",
+    "views": 1735,
+    "lastUpdated": "2026-08-30T11:00:00Z"
+  },
+  {
+    "id": 18,
+    "title": "Mouse and Keyboard Ergonomics",
+    "category": "Hardware",
+    "views": 832,
+    "lastUpdated": "2026-08-12T14:00:00Z"
+  },
+  {
+    "id": 19,
+    "title": "Adapter Compatibility Guide",
+    "category": "Accessories",
+    "views": 1210,
+    "lastUpdated": "2026-08-23T09:48:00Z"
+  },
+  {
+    "id": 20,
+    "title": "USB Hub Expansion Best Practices",
+    "category": "Accessories",
+    "views": 996,
+    "lastUpdated": "2026-08-31T10:10:00Z"
+  }
+]

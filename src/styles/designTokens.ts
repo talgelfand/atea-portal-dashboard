@@ -1,0 +1,91 @@
+export const designTokens = {
+  color: {
+    global: {
+      white: "#FFFFFF",
+      black: "#111827",
+      transparent: "transparent",
+    },
+    gray: {
+      25: "#FCFCFD",
+      50: "#F9FAFB",
+      100: "#F3F4F6",
+      200: "#E5E7EB",
+      300: "#D1D5DB",
+      400: "#9CA3AF",
+      500: "#6B7280",
+      600: "#4B5563",
+      700: "#374151",
+      900: "#111827",
+    },
+    green: {
+      100: "#DCFCE7",
+      200: "#BBF7D0",
+      500: "#22C55E",
+      600: "#16A34A",
+      700: "#15803D",
+    },
+    red: {
+      100: "#FEE2E2",
+      200: "#FECACA",
+      500: "#EF4444",
+      600: "#DC2626",
+      700: "#B91C1C",
+    },
+    orange: {
+      100: "#FFEDD5",
+      200: "#FED7AA",
+      500: "#F97316",
+      600: "#EA580C",
+      700: "#C2410C",
+    },
+    blue: {
+      100: "#DBEAFE",
+      200: "#BFDBFE",
+      500: "#3B82F6",
+      600: "#2563EB",
+      700: "#1D4ED8",
+    },
+  },
+  spacing: {
+    "space-1": 2,
+    "space-2": 4,
+    "space-3": 8,
+    "space-4": 16,
+    "space-5": 24,
+    "space-6": 32,
+    "space-7": 48,
+  },
+  radius: {
+    none: 0,
+    sm: 4,
+    md: 8,
+    lg: 16,
+    xl: 32,
+    pill: 999,
+  },
+  border: {
+    width: {
+      thin: 1,
+      regular: 2,
+    },
+  },
+  font: {
+    family: {
+      primary: "Inter, sans-serif",
+    },
+    size: {
+      xs: 11,
+      sm: 12,
+      md: 14,
+      lg: 16,
+      xl: 20,
+      "2xl": 24,
+    },
+    weight: {
+      regular: 400,
+      medium: 500,
+      "semi-bold": 600,
+      bold: 700,
+    },
+  },
+};

@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1001,
+    "customer": "Alice Johnson",
+    "subject": "Router connectivity issue",
+    "status": "Open",
+    "priority": "High"
+  },
+  {
+    "id": 1002,
+    "customer": "Marcus Lee",
+    "subject": "VPN authentication failed",
+    "status": "Open",
+    "priority": "High"
+  },
+  {
+    "id": 1003,
+    "customer": "Sarah White",
+    "subject": "Need help with Wi-Fi coverage",
+    "status": "Pending",
+    "priority": "Medium"
+  },
+  {
+    "id": 1004,
+    "customer": "Daniel Smith",
+    "subject": "Printer not responding",
+    "status": "Open",
+    "priority": "Medium"
+  },
+  {
+    "id": 1005,
+    "customer": "Priya Patel",
+    "subject": "Firewall rule update request",
+    "status": "Closed",
+    "priority": "Low"
+  },
+  {
+    "id": 1006,
+    "customer": "Emma Brown",
+    "subject": "Multiple device backups missing",
+    "status": "Open",
+    "priority": "High"
+  },
+  {
+    "id": 1007,
+    "customer": "Michael Chen",
+    "subject": "UPS replacement quote",
+    "status": "Pending",
+    "priority": "Medium"
+  },
+  {
+    "id": 1008,
+    "customer": "Olivia Green",
+    "subject": "Laptop battery drains quickly",
+    "status": "Open",
+    "priority": "High"
+  },
+  {
+    "id": 1009,
+    "customer": "James Wilson",
+    "subject": "Camera setup assistance",
+    "status": "Closed",
+    "priority": "Low"
+  },
+  {
+    "id": 1010,
+    "customer": "Chloe Garcia",
+    "subject": "Access point not syncing",
+    "status": "Open",
+    "priority": "High"
+  },
+  {
+    "id": 1011,
+    "customer": "Noah Martin",
+    "subject": "Need software approval form",
+    "status": "Pending",
+    "priority": "Medium"
+  },
+  {
+    "id": 1012,
+    "customer": "Sophia Lee",
+    "subject": "Scanner calibration issue",
+    "status": "Open",
+    "priority": "Medium"
+  },
+  {
+    "id": 1013,
+    "customer": "Lucas Hall",
+    "subject": "Port security question",
+    "status": "Closed",
+    "priority": "Low"
+  },
+  {
+    "id": 1014,
+    "customer": "Ava Adams",
+    "subject": "Monitor flickering",
+    "status": "Open",
+    "priority": "Medium"
+  },
+  {
+    "id": 1015,
+    "customer": "Benjamin Scott",
+    "subject": "Need to reset device permissions",
+    "status": "Pending",
+    "priority": "High"
+  },
+  {
+    "id": 1016,
+    "customer": "Ella Turner",
+    "subject": "Audio output issue in meeting room",
+    "status": "Open",
+    "priority": "High"
+  },
+  {
+    "id": 1017,
+    "customer": "Henry Young",
+    "subject": "NAS storage sync delay",
+    "status": "Open",
+    "priority": "Medium"
+  },
+  {
+    "id": 1018,
+    "customer": "Mia Walker",
+    "subject": "USB hub power problem",
+    "status": "Closed",
+    "priority": "Low"
+  },
+  {
+    "id": 1019,
+    "customer": "Logan Perez",
+    "subject": "VPN certificate expired",
+    "status": "Open",
+    "priority": "High"
+  },
+  {
+    "id": 1020,
+    "customer": "Amelia Baker",
+    "subject": "Need guidance on secure setup",
+    "status": "Pending",
+    "priority": "Medium"
+  }
+]
