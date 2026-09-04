@@ -9,13 +9,12 @@ const Button = styled.button`
   background: transparent;
   color: ${designTokens.color.gray[700]};
   border-radius: ${designTokens.radius.md}px;
-  padding: ${designTokens.spacing["space-1"]}px
+  padding: ${designTokens.spacing["space-3"]}px
     ${designTokens.spacing["space-3"]}px;
   font-family: ${designTokens.font.family.primary};
   font-size: ${designTokens.font.size.sm}px;
   font-weight: ${designTokens.font.weight.medium};
   cursor: pointer;
-  height: 32px;
 
   &:hover {
     border-color: ${designTokens.color.gray[400]};

@@ -52,11 +52,13 @@ function App() {
         <SearchInput value={searchTerm} onChange={handleSearch} />
         {isLoading && searchTerm && <p>Searching...</p>}
         {error && <p>Unable to complete search.</p>}
-        <SearchResultsSection
-          products={searchResults?.products ?? []}
-          articles={searchResults?.articles ?? []}
-          tickets={searchResults?.tickets ?? []}
-        />
+        {!isLoading && !error && (
+          <SearchResultsSection
+            products={searchResults?.products ?? []}
+            articles={searchResults?.articles ?? []}
+            tickets={searchResults?.tickets ?? []}
+          />
+        )}
       </div>
     </Grid>
   );

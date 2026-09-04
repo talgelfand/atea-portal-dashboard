@@ -37,6 +37,10 @@ export const SearchResultsSection = ({
   articles = [],
   tickets = [],
 }: SearchResultsSectionProps) => {
+  if (products.length === 0 && articles.length === 0 && tickets.length === 0) {
+    return <p>No results found.</p>;
+  }
+
   return (
     <>
       {products.length > 0 && (
