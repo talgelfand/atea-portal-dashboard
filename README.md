@@ -29,3 +29,11 @@ The app uses local JSON files and mock API functions instead of a live backend.
 Global design tokens are defined in `src/styles/designTokens.ts`. They mirror the design system's primitive and semantic values for colors, spacing, typography, borders, and radii.
 
 Components use these tokens for the dashboard grid spacing, panel sizing, table gaps, control padding, text hierarchy, status colors, and feedback states. Shared layout and component conventions are kept in the owning components, while `styles/` contains only the global token definitions.
+
+## Testing
+
+Unit testing is done with Vitest. To run tests:
+
+```bash
+npm run test
+```
